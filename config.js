@@ -12,7 +12,7 @@ module.exports = {
 
 
   sponsor: {
-    status: false,
+    status: true,
     url: "https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A",
   },
 
